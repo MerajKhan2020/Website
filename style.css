@@ -1,0 +1,418 @@
+@charset "utf-8";
+
+body {
+	margin-top:0px;
+	height:auto;
+		
+}
+
+#contentone{
+	width:1300px;
+	height:70px;
+	background:#7B4D19;
+	margin:auto;
+	
+
+	
+}
+
+#toptext {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size:25px;
+	margin-left:200px;
+	margin-top:15px;
+	float:left;
+	color:#FFFFFF;
+			
+	}
+
+#logo {
+	height:70px;
+	width:170px;
+	float:left;
+	padding-left:22px;
+		
+	}
+	
+#searchbox{
+	float:right;
+	padding-right:20px;
+	padding-top:22px;
+	
+	
+	}
+	
+	
+#contenttwo{
+	width:1240px;
+	height:70px;
+	margin:auto;
+	
+	
+	
+	
+	}
+#contentthree {
+	/*Div that holds common image 1 and 2 */
+	width:1300px;
+	height:500px;
+	margin:auto;
+	padding-top:20px;
+	position:relative;
+	top:0px;
+	
+	
+	
+	}
+	
+#image1 {
+	/* image 1 changes is common in all pages but it changes */
+	width:inherit;
+	height:inherit;
+	position:relative;
+	top:0px;
+	left:0px;
+		
+	
+	}
+#image2{
+	/* image 2 is the wooden frame in all pages*/
+	width:1155px;
+	height:392px;
+	position:absolute;
+	top:75px;
+	left:73px;
+	
+	
+
+	}
+
+#welcomenote{
+	/* div for welcome text in index.php */
+	width:1240px;
+	height:auto;
+	margin:auto;
+	text-align:center;
+	Color:#010101;
+	margin-top:15px;
+	
+	
+	
+	}
+	
+	
+#products {
+	/* div for products in products.php */
+	width:1300px;
+	height:auto;
+	margin:auto;
+	margin-top:25px;
+	border-style:solid;
+	border-color:#727272;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size:20px;
+	text-align:center;
+	
+	
+	
+	}
+	
+#gallery{
+	/* div for gallery text in gallery.php */
+	width:1300px;
+	height:auto;
+	margin:auto;
+	margin-top:15px;
+	border-style:solid;
+	border-color:#9F6445;
+	
+	
+	
+	}
+	
+#aboutus{
+	/* div for about us text in home.php */
+	width:1300px;
+	height:auto;
+	margin:auto;
+	text-align:left;
+	Color:#010101;
+	margin-top:30px;
+	
+	
+	}
+	
+#whyuseus{
+	/* div for whyusemkstudio text in home.php */
+	width:1300px;
+	height:auto;
+	margin:auto;
+	text-align:left;
+	Color:#010101;
+	margin-top:30px;
+		
+	
+	}
+	
+#sitemap{
+	/* div for sitemap text in sitemap.php */
+	width:1300px;
+	height:auto;
+	margin:auto;
+	text-align:left;
+	Color:#010101;
+	margin-top:30px;
+	padding-left:35px;
+	
+	}
+	
+#boopri{
+	/* div for booking and pricing info in home.php */
+	width:1300px;
+	height:auto;
+	margin:auto;
+	text-align:left;
+	Color:#010101;
+	margin-top:30px;
+	padding-bottom:30px;
+	
+	
+	}
+	
+#tablesix{
+	/* table for contact and feedback form in home.php */
+	width:650px;
+	height:auto;
+	margin:auto;
+	text-align:left;
+	Color:#010101;
+	margin-top:30px;
+	float:left;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	
+	
+	}
+	
+#conbook{
+	/* div for contact and feedback form in home.php */
+	width:1300px;
+	height:400px;
+	margin:auto;
+	
+	
+	
+	}
+	
+#purchaseorderform {
+	/* div for contact and feedback form in purchase.php */
+	width:500px;
+	height:650px;
+	margin:auto;
+
+	
+	
+	}
+	
+	
+#photographers{
+	/* div for photographer info in aboutus.php */
+	width:1300px;
+	height:730px;
+	margin:auto;
+	text-align:left;
+	Color:#010101;
+	margin-top:30px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	
+	}
+
+	
+#table2 {
+	/* Table for photography in aboutus.php */
+	width:1300px;
+	height:auto;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size:17px;
+	text-align:left;
+	
+	}
+	
+#table3 {
+	/* Table for social in aboutus.php */
+	width:650px;
+	height:70px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size:17px;
+	text-align:center;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	padding-left:15px;	
+	margin:auto;
+	margin-top:30px;	
+	}
+
+	
+p1 {
+	/* Description text */
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size:35px;
+	
+	}
+
+p2{
+	/* Description text */
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size:17px;
+	
+	
+	}
+
+p3{
+	/* Description text in About.php*/
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size:35px;
+	margin-left:10px;
+	
+	
+	}
+
+	
+#container{
+	/* This Div holds the Menu */
+	width:1300px;
+	margin:auto;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	
+	}
+
+
+/* Menu.php start */
+
+.nav ul {
+    *zoom:1;
+    list-style:none;
+    margin:0;
+    padding:0;
+    background:#333;
+}
+.nav ul:before,.nav ul:after {
+    content:"";
+    display:table;
+}
+.nav ul:after {
+    clear:both;
+}
+.nav ul > li {
+    float:left;
+    position:relative;
+}
+.nav a {
+    display:block;
+    padding:10px 20px;
+    line-height:1.2em;
+    color:#fff;
+    border-left:1px solid #595959;
+}
+.nav a:hover {
+    text-decoration:none;
+    background:#595959;
+}
+
+.nav a:link {
+	text-decoration:none;
+
+	}
+
+.nav li ul {
+    background:#B0710B;
+}
+.nav li ul li {
+    width:200px;
+}
+.nav li ul a {
+    border:none;
+}
+.nav li ul a:hover {
+    background:rgba(0,0,0,0.2);
+}
+
+.nav li ul {
+    position:absolute;
+    left:0;
+    top:36px;
+    z-index:1;
+    visibility:hidden;
+    opacity:0;
+    filter:alpha(opacity=0);
+    -webkit-transition:200ms ease;
+    -moz-transition:200ms ease;
+    -o-transition:200ms ease;
+    transition:200ms ease;
+}
+.nav ul > li:hover ul {
+	visibility:visible;
+    opacity:1;
+    filter:alpha(opacity=100);
+}
+
+/* Menu.php end */
+
+
+#footer{ 
+	/* footer.php */
+	width:1300px;
+	margin:auto;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	color:2F94B8;	
+	margin-top:30px;	
+	
+	
+}
+.bottom {
+	/* footer.php */
+	margin-left:1000px}
+
+
+
+#image7 {
+	/* gallery.php */
+ width:auto;
+ box-shadow:0px 0px 20px #cecece;
+ -moz-transform: scale(0.7);
+ -moz-transition-duration: 0.6s; 
+ -webkit-transition-duration: 0.6s;
+ -webkit-transform: scale(0.7);
+ 
+ -ms-transform: scale(0.7);
+ -ms-transition-duration: 0.6s; 
+ border:solid;
+ border-color:#9F6445;
+ border-bottom-left-radius:25px;
+ border-width: 15px;
+ 
+}
+
+#image7:hover {
+	/* gallery.php */
+  box-shadow: 20px 20px 20px #dcdcdc;
+ -moz-transform: scale(0.8);
+ -moz-transition-duration: 0.6s;
+ -webkit-transition-duration: 0.6s;
+ -webkit-transform: scale(0.8);
+ 
+ -ms-transform: scale(0.8);
+ -ms-transition-duration: 0.6s;
+ 
+}
+
+
+.items {
+	/* product.php */
+	
+	padding-top:15px;
+	border: 1px solid #D9D9D9;
+	
+	}
+	
